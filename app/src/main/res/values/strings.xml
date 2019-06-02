@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C-Alarm</string>
+    <string name="tabAlarm_text">アラーム</string>
+    <string name="tabPreset_text">プリセット</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
