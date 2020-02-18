@@ -36,11 +36,14 @@
             android:clickable="true"
             android:text="TIME" />
 
-        <Spinner
-            android:id="@+id/spinner"
+        <TextView
+            android:id="@+id/musicSelect"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/timeText" />
+            android:layout_below="@id/timeText"
+            android:clickable="true"
+            android:textAlignment="center"
+            android:text="Music Title" />
 
     </RelativeLayout>
 
